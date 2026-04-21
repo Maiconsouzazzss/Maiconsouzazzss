@@ -48,7 +48,7 @@ Ferramentas de Design:
 ## 📊 Estatísticas
 <div align="center">
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsouzazzss&show_icons=true&theme=tokyonight" alt="Top Languages" />
-<img width=48% <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsouzazzss&layout=compact&theme=tokyonight" />
+<img <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsouzazzss&layout=compact&theme=tokyonight" />
 </div>
 
 
