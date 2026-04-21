@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maicon Souza</h1>
+<h1 align="center">Hi 👋, I'm Maicon</h1>
 <h3 align="center">💻 Estudante de ADS | JavaScript | Aprendendo TypeScript e Java | Em busca de estágio</h3>
 
 ---
