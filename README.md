@@ -35,6 +35,12 @@ Ferramentas de Design:
 
 ## 🚀 Projetos
 
+### 📦 Dashboard de Pedidos
+🔗 Demo: https://maiconsouzazzss.github.io/dashboard-pedidos-ts/ 
+💻 Código: https://github.com/Maiconsouzazzss/dashboard-pedidos-ts
+
+---
+
 ### 🎲 Jogo de Dados
 🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/  
 💻 Código: https://github.com/Maiconsouzazzss/Jogo-de-dados-Js  
