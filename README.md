@@ -42,7 +42,7 @@ Ferramentas de Design:
 ---
 
 ### 🎲 Jogo de Dados
-🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/
+🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/  
 💻 Código: https://github.com/Maiconsouzazzss/Jogo-de-dados-Js  
 
 ---
