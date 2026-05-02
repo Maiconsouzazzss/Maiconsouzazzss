@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias
 
 
-  
+
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,11 +33,7 @@ Ferramentas de Design:
 
 ---
 
-### 🐦 Game flappy bird
-🔗 Demo: https://maiconsouzazzss.github.io/game-flappy-bird-js/  
-💻 Código: https://github.com/Maiconsouzazzss/game-flappy-bird-js.git
-
----
+## 🚀 Projetos
 
 ### 📦 Dashboard de Pedidos
 🔗 Demo: https://maiconsouzazzss.github.io/dashboard-pedidos-ts/  
@@ -46,6 +42,7 @@ Ferramentas de Design:
 ---
 
 ### 🎲 Jogo de Dados
+🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/
 🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/  
 💻 Código: https://github.com/Maiconsouzazzss/Jogo-de-dados-Js  
 
@@ -65,7 +62,6 @@ Ferramentas de Design:
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsouzazzss&layout=compact&theme=tokyonight" />
 </div>
-
 ---
 
 ## 📫 Contato
