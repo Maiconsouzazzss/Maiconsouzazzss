@@ -33,7 +33,11 @@ Ferramentas de Design:
 
 ---
 
-## 🚀 Projetos
+### 🐦 Game flappy bird
+🔗 Demo: https://maiconsouzazzss.github.io/game-flappy-bird-js/  
+💻 Código: https://github.com/Maiconsouzazzss/game-flappy-bird-js.git
+
+---
 
 ### 📦 Dashboard de Pedidos
 🔗 Demo: https://maiconsouzazzss.github.io/dashboard-pedidos-ts/  
@@ -58,7 +62,7 @@ Ferramentas de Design:
 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maiconsouzazzss&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maiconsouzazzss&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsouzazzss&layout=compact&theme=tokyonight" />
 </div>
