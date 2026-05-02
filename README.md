@@ -33,7 +33,11 @@ Ferramentas de Design:
 
 ---
 
-## 🚀 Projetos
+### 🐦 Game flappy bird
+🔗 Demo: https://maiconsouzazzss.github.io/game-flappy-bird-js/ 
+💻 Código: https://github.com/Maiconsouzazzss/game-flappy-bird-js.git
+
+---
 
 ### 📦 Dashboard de Pedidos
 🔗 Demo: https://maiconsouzazzss.github.io/dashboard-pedidos-ts/  
