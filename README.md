@@ -46,7 +46,6 @@ Ferramentas de Design:
 ---
 
 ### 🎲 Jogo de Dados
-🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/
 🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/  
 💻 Código: https://github.com/Maiconsouzazzss/Jogo-de-dados-Js  
 
@@ -62,7 +61,7 @@ Ferramentas de Design:
 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maiconsouzazzss&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maiconsouzazzss&show_icons=true&theme=tokyonight" />
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsouzazzss&layout=compact&theme=tokyonight" />
 </div>
