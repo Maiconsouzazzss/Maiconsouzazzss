@@ -3,11 +3,11 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-📚 Desenvolvimento com JavaScript e TypeScript
-☕ Estudando Java e backend  
+ Estudante de Análise e Desenvolvimento de Sistemas  
+ Desenvolvimento com JavaScript e TypeScript
+ Estudando Java e backend  
 
 🎯 Buscando oportunidade de estágio na área de desenvolvimento  
 
@@ -36,26 +36,26 @@ Ferramentas de Design:
 ---
 
 ### 🐦 Game flappy bird
-🔗 Demo: https://maiconsouzazzss.github.io/game-flappy-bird-js/  
-💻 Código: https://github.com/Maiconsouzazzss/game-flappy-bird-js.git
+ Demo: https://maiconsouzazzss.github.io/game-flappy-bird-js/  
+ Código: https://github.com/Maiconsouzazzss/game-flappy-bird-js.git
 
 ---
 
 ### 📦 Dashboard de Pedidos
-🔗 Demo: https://maiconsouzazzss.github.io/dashboard-pedidos-ts/  
-💻 Código: https://github.com/Maiconsouzazzss/dashboard-pedidos-ts
+ Demo: https://maiconsouzazzss.github.io/dashboard-pedidos-ts/  
+ Código: https://github.com/Maiconsouzazzss/dashboard-pedidos-ts
 
 ---
 
 ### 🎲 Jogo de Dados
-🔗 Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/  
-💻 Código: https://github.com/Maiconsouzazzss/Jogo-de-dados-Js  
+ Demo: https://maiconsouzazzss.github.io/Jogo-de-dados-Js/  
+ Código: https://github.com/Maiconsouzazzss/Jogo-de-dados-Js  
 
 ---
 
 ### 🥁 Drum Kit
-🔗 Demo: https://maiconsouzazzss.github.io/drum-kit/  
-💻 Código: https://github.com/Maiconsouzazzss/drum-kit  
+ Demo: https://maiconsouzazzss.github.io/drum-kit/  
+ Código: https://github.com/Maiconsouzazzss/drum-kit  
 
 ---
 
